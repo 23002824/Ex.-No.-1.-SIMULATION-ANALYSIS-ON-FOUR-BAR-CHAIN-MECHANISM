@@ -53,10 +53,13 @@
 
 
 ## Output:
+![Screenshot 2023-12-19 184603](https://github.com/23002824/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151514009/0e649a05-3562-4662-ad4f-dec5b69fe84f)
+![Screenshot 2023-12-19 184541](https://github.com/23002824/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151514009/1d0bedca-da0d-403b-946f-66a4d02f96b1)
+![Screenshot 2023-12-19 184634](https://github.com/23002824/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/151514009/072dcee0-a5f1-47a3-bce1-a9eab980f654)
 
 
-### Name:
-### Register Number: 
+### Name:Danica Christa
+### Register Number:23002824 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
